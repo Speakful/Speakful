@@ -23,7 +23,7 @@ Currently completing a **Data Science & AI Bootcamp** at [The Bridge](https://ww
 
 - Building ML projects focused on real-world financial and business data
 - Deepening skills in Deep Learning and feature engineering
-- Looking for Data Science / ML roles — open to opportunities from mid-2026
+- Looking for Data Science / ML roles
 
 ---
 

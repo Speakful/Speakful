@@ -29,7 +29,7 @@ Currently completing a **Data Science & AI Bootcamp** at [The Bridge](https://ww
 
 ## 📌 Background
 
-Before the pivot into data, I spent 8 years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of 1,500+ securitized assets. I know what clean, reliable data actually means in production.
+Before the pivot into data, I spent 5+ years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of 1,500+ securitized assets. I know what clean, reliable data actually means in production.
 
 ---
 

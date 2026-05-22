@@ -4,7 +4,7 @@ Economist turned Data Scientist. 8+ years in top-tier financial institutions —
 ---
 ## 📌 Background
 
-Before pivoting into data, I spent over 5 years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of over 1,500 securitized assets. I know what clean, reliable data actually means in production.
+Before pivoting into data, I spent over 5 years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of over 1,500 securitized assets.
 
 ## 🛠️ Tech Stack
 

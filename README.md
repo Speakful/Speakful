@@ -9,7 +9,7 @@ Economist turned Data Scientist. 8+ years in top-tier financial institutions —
 `Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Git`
 
 **Machine Learning**
-`Scikit-learn` `Supervised Learning` `Unsupervised Learning` `TensorFlow/Keras` *(in progress)*
+`Scikit-learn` `Supervised Learning` `Unsupervised Learning` `TensorFlow/Keras`
 
 **Data & BI**
 `Tableau` `NoSQL / MongoDB` `Excel` `Jupyter Notebooks`

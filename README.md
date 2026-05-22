@@ -2,6 +2,9 @@
 
 Economist turned Data Scientist. 8+ years in top-tier financial institutions — now combining that domain expertise with Python, ML, and AI to build smarter, data-driven solutions.
 ---
+## 📌 Background
+
+Before pivoting into data, I spent over 5 years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of over 1,500 securitized assets. I know what clean, reliable data actually means in production.
 
 ## 🛠️ Tech Stack
 
@@ -67,12 +70,6 @@ Full pipeline from raw data to PostgreSQL: cleaning, E/R modelling, DDL scripts 
 Fully functional terminal Battleship game built in Python against a CPU opponent.
 10×10 grid, randomised ship placement, colour-coded board output. Applies OOP principles.
 `Python` · `OOP` · `NumPy`
-
----
-
-## 📌 Background
-
-Before pivoting into data, I spent over 5 years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of over 1,500 securitized assets. I know what clean, reliable data actually means in production.
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Valderrama 👋
 
-Economist turned Data Scientist. 8+ years in top-tier financial institutions — now combining that domain expertise with Python, ML, and AI to build smarter, data-driven solutions.
+Economist turned Data Scientist. 5+ years in top-tier financial institutions — now combining that domain expertise with Python, ML, and AI to build smarter, data-driven solutions.
 ---
 ## 📌 Background
 

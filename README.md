@@ -36,8 +36,16 @@ Before pivoting into data, I spent over 5 years at **Grupo Santander** managing 
 
 ## 🗂️ Projects
 
+### ⚽ [FIFA World Cup 2026 — ML Winner Prediction](https://github.com/Speakful/wc2026-predictor)
+End-to-end ML project predicting the 2026 World Cup winner using XGBoost and Monte Carlo simulation.
+10,000 tournament simulations producing win probability distributions across all 48 qualified nations. Follows the official bracket structure with live updates after each match day as real results are locked in.
+Deployed as an interactive Streamlit dashboard with bracket view, team profiles, Monte Carlo insights and a live model validation tracker.
+`Python` · `XGBoost` · `Monte Carlo` · `Streamlit` · `Pandas` · `Plotly` · `scikit-learn`
+
+---
+
 ### 🛡️ [NovaPay Fraud Shield — Real-Time Fraud Detection API](https://github.com/DarkKrismon/Desafio_Grupo1)
-End-to-end fraud detection system built in an adversarial format — Blue Team (Data Science) vs Red Team (Cybersecurity).
+End-to-end fraud detection system built in an adversarial format.
 XGBoost pipeline trained on 270K+ synthetic financial transactions with a hybrid scoring system combining ML probabilities and domain-driven bonus rules.
 Round 2 model trained on stealth fraud patterns designed to evade Round 1 detection. FastAPI backend deployed on AWS EC2 with Supabase database and analyst review dashboard.
 `Python` · `XGBoost` · `FastAPI` · `Supabase` · `AWS EC2` · `Pandas` · `scikit-learn`

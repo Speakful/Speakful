@@ -36,6 +36,14 @@ Before pivoting into data, I spent over 5 years at **Grupo Santander** managing 
 
 ## 🗂️ Projects
 
+### 🛡️ [NovaPay Fraud Shield — Real-Time Fraud Detection API](https://github.com/DarkKrismon/Desafio_Grupo1)
+End-to-end fraud detection system built in an adversarial format — Blue Team (Data Science) vs Red Team (Cybersecurity).
+XGBoost pipeline trained on 270K+ synthetic financial transactions with a hybrid scoring system combining ML probabilities and domain-driven bonus rules.
+Round 2 model trained on stealth fraud patterns designed to evade Round 1 detection. FastAPI backend deployed on AWS EC2 with Supabase database and analyst review dashboard.
+`Python` · `XGBoost` · `FastAPI` · `Supabase` · `AWS EC2` · `Pandas` · `scikit-learn`
+
+---
+
 ### 🏎️ [F1 Pit Stop Strategy Predictor](https://github.com/Speakful/f1-pitstop-predictor-ML)
 Binary classification model predicting whether an F1 driver should pit on the next lap using lap-by-lap telemetry data from 2021–2023 seasons.
 Covers full ML pipeline: data collection via FastF1 API, EDA, feature engineering, model comparison and hyperparameter tuning.
@@ -63,13 +71,6 @@ Confirmed hypothesis across circuit and era breakdowns. 58.9% pole-to-win rate. 
 Designed a normalised relational schema from flat CSV files for a bootcamp management system.
 Full pipeline from raw data to PostgreSQL: cleaning, E/R modelling, DDL scripts and query development.
 `SQL` · `PostgreSQL` · `Python` · `Pandas` · `SQLAlchemy`
-
----
-
-### 🚢 [Battleship Game](https://github.com/Speakful/Battleship)
-Fully functional terminal Battleship game built in Python against a CPU opponent.
-10×10 grid, randomised ship placement, colour-coded board output. Applies OOP principles.
-`Python` · `OOP` · `NumPy`
 
 ---
 

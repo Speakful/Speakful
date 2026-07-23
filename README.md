@@ -32,7 +32,7 @@ Before pivoting into data, I spent over 5 years at **Grupo Santander** managing 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Frameworks & Deployment**  
+**Frameworks & Deployment**
 ![XGBoost](https://img.shields.io/badge/XGBoost-0f4c81?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

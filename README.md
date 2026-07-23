@@ -1,10 +1,10 @@
 # Hi, I'm Eduardo Valderrama 👋
 
-Economist turned Data Scientist. 5+ years in top-tier financial institutions — now combining that domain expertise with Python, ML, and AI to build smarter, data-driven solutions.
+Data Scientist with 5+ years in structured finance at Grupo Santander, now applying that domain depth to Python, ML, and AI.
 ---
 ## 📌 Background
 
-Before pivoting into data, I spent over 5 years at **Grupo Santander** managing structured trade finance portfolios, automating SWIFT workflows, and maintaining datasets of over 1,500 securitized assets.
+At Grupo Santander I managed structured trade finance portfolios, automated SWIFT workflows, and maintained datasets of 1,500+ securitized assets, the kind of high-stakes, data-heavy environment that now drives how I build ML pipelines and financial-domain models.
 
 ## 🛠️ Tech Stack
 
